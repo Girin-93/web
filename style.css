@@ -1,0 +1,15 @@
+html{
+	background-color: Gray;
+}
+h1{
+	font-size: 30px;
+	color: Blue;
+}
+p{
+	font-size: 20px;
+	color: Black;
+}
+li{
+	font-size: 15px;
+	color: Black;
+}
